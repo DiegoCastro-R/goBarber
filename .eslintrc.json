@@ -35,6 +35,7 @@
       "react/prop-types": "off",
       "prettier/prettier": "error",
       "no-use-before-define": "off",
+      "no-unused-expressions": "off",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
       "import/prefer-default-export": "off",
